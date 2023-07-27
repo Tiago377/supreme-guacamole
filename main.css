@@ -318,7 +318,7 @@ footer {
 
     html,
     body {
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     .navbar-items li {
